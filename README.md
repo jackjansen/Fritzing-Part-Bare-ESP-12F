@@ -1,20 +1,20 @@
-Fritzing Part: WiFi Witty Gizwits ESP-12F
-===================================
+Fritzing Part: minimal ESP-12F
+==============================
 
-Fritzing part for the WiFi Witty Gizwits ESP-12F
+Fritzing part for minimal ESP-12F breakout board (for breadboard) and bare ESP-12F for PCB.
 
-<http://site.gizwits.com/en/developer/>
+Based on <http://site.gizwits.com/en/developer/>
 
 <http://fritzing.org>
 
 #### Breadboard:
 
-![Fritzing Breadboard](https://raw.github.com/mcauser/Fritzing-Part-WiFi-Witty-Gizwits-ESP-12F/master/demo/breadboard.png)
+![Fritzing Breadboard](https://raw.github.com/jackjansen/Fritzing-Part-Bare-ESP-12F/master/demo/breadboard.png)
 
 #### Schematic:
 
-![Fritzing Schematic](https://raw.github.com/mcauser/Fritzing-Part-WiFi-Witty-Gizwits-ESP-12F/master/demo/schematic.png)
+![Fritzing Schematic](https://raw.github.com/jackjansen/Fritzing-Part-Bare-ESP-12F/master/demo/schematic.png)
 
 #### PCB:
 
-![Fritzing PCB](https://raw.github.com/mcauser/Fritzing-Part-WiFi-Witty-Gizwits-ESP-12F/master/demo/pcb.png)
+![Fritzing PCB](https://raw.github.com/jackjansen/Fritzing-Part-Bare-ESP-12F/master/demo/pcb.png)
